@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/estaciones-sin-tu-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Estaciones sin tu amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/estaciones-sin-tu-amor/) |
+| **Get License** | [Music Rights & Licensing for Estaciones sin tu amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/estaciones-sin-tu-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Toda la noche buscándote por la ciudad
+> Quiero sentir el veneno de tu seducción
+> Tú eres el fuego que quema la oscuridad
+> Y no quiero más estaciones sin tu amor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
