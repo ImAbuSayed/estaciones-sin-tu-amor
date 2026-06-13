@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Estaciones sin tu amor
+
+This log tracks the cryptographic history and versioning for the song **Estaciones sin tu amor** (estaciones-sin-tu-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:18:23.242671 | `v1` | `e5b6b488dfe7d4ff38b5d7831173e609af9896d2dee7aba675b18317acd4dfe6` | `f4a8254dc73bb37f2b3d7051cd7286340ae39e738cb0cb0d8748d8a02df53a42` | `2026-06-14_estaciones-sin-tu-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
